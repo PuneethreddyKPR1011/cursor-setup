@@ -23,8 +23,7 @@ This workshop explains practical strategies for growing a B2B SaaS company by ad
 This video provides real-world SaaS growth strategies used by successful companies and founders, making it highly relevant for building a B2B content strategy playbook.
 
 ## Transcript
-Introduction
-on to SASTR Workshop
+Introduction to SASTR Workshop
 0:00
 do it for half a day and invite all your top customers and all your top prospects it's magical first of all your top
 0:06
