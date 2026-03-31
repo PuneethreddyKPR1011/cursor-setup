@@ -1,3 +1,4 @@
+Used AI-assisted tools and transcript extraction methods to collect and structure data efficiently
 # Cursor IDE Setup and B2B SaaS Content Strategy Research
 
 ## Tools Installed
