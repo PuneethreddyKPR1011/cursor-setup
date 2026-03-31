@@ -78,6 +78,7 @@ To analyze high-quality content from leading B2B SaaS experts and identify patte
 * YouTube transcripts collected manually using transcript extraction
 * Structured insights created from each video
 * Content analyzed for patterns and strategy
+* Used transcript extraction methods and explored automation using tools like youtube-transcript-api and AI-assisted summarization for processing content.
 
 ---
 
