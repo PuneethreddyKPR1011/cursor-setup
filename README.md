@@ -121,3 +121,8 @@ This project demonstrates the ability to:
 
 The repository can be extended into a complete playbook for real-world SaaS marketing execution.
 Used transcript extraction methods and explored automation using tools like youtube-transcript-api and AI-assisted summarization for processing content.
+## API Usage
+
+A Python script was implemented using the youtube-transcript-api library to fetch YouTube video transcripts programmatically.
+
+This demonstrates the ability to automate data collection and integrate APIs into the research workflow.
