@@ -120,3 +120,4 @@ This project demonstrates the ability to:
 * Extract actionable strategies for B2B SaaS growth
 
 The repository can be extended into a complete playbook for real-world SaaS marketing execution.
+Used transcript extraction methods and explored automation using tools like youtube-transcript-api and AI-assisted summarization for processing content.
