@@ -1,4 +1,3 @@
-Used AI-assisted tools and transcript extraction methods to collect and structure data efficiently
 # Cursor IDE Setup and B2B SaaS Content Strategy Research
 
 ## Tools Installed
@@ -125,6 +124,27 @@ The repository can be extended into a complete playbook for real-world SaaS mark
 Used transcript extraction methods and explored automation using tools like youtube-transcript-api and AI-assisted summarization for processing content.
 ## API Usage
 
-A Python script was implemented using the youtube-transcript-api library to fetch YouTube video transcripts programmatically.
+A Python script is included at `scripts/fetch_transcript.py` and uses the `supadata` API client to fetch YouTube transcripts programmatically.
 
-This demonstrates the ability to automate data collection and integrate APIs into the research workflow.
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Configure API key
+
+1. Copy `.env.example` to `.env`
+2. Set your key:
+
+```env
+SUPADATA_API_KEY="your_api_key_here"
+```
+
+### Run transcript fetcher
+
+```bash
+python scripts/fetch_transcript.py
+```
+
+This automates transcript collection from URLs listed in `scripts/youtube_links.txt` and writes output to `research/youtube-transcripts/`.
